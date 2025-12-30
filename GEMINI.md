@@ -51,6 +51,7 @@ design-patterns/
 ├── GEMINI.md                    # This file - guidelines and instructions
 ├── pattern_name/                # Folder for each pattern (snake_case)
 │   ├── README.md               # Overview and notes for this pattern
+│   ├── OOP_REFERENCE.md        # Traditional OOP format explanation
 │   ├── basic_example.exs       # Simple interactive example
 │   ├── generalized_example.exs # Reusable/abstract implementation
 │   ├── real_world_example.exs  # Practical use case
@@ -74,7 +75,7 @@ design-patterns/
 
 - Elixir is a functional language, so some traditional OOP design patterns may need adaptation
 - Focus on understanding the *intent* of patterns, not just the implementation
-- Patterns covered: _(will be updated as we progress)_
+- Patterns covered: Strategy
 
 ---
 
