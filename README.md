@@ -20,6 +20,7 @@ This repository contains practical examples of design patterns adapted for funct
 | Pattern | Category | Status |
 |---------|----------|--------|
 | [Strategy](./strategy_pattern/) | Behavioral | ✅ Complete |
+| [Observer](./observer_pattern/) | Behavioral | ✅ Complete |
 
 ---
 
@@ -85,7 +86,7 @@ iex basic_example.exs
 ### Behavioral Patterns
 > Deal with object communication
 
-- **Strategy** ✅, Observer, Command, State, Template Method, Iterator, Mediator, Memento, Visitor, Chain of Responsibility
+- **Strategy** ✅, **Observer** 🚧, Command, State, Template Method, Iterator, Mediator, Memento, Visitor, Chain of Responsibility
 
 ---
 

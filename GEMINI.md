@@ -71,11 +71,58 @@ design-patterns/
 
 ---
 
+## OOP_REFERENCE.md Structure
+
+Each pattern's `OOP_REFERENCE.md` file should follow this consistent format:
+
+```markdown
+# [Pattern Name] — OOP Reference
+
+[Brief intro explaining this shows the traditional OOP format]
+
+---
+
+## UML Diagram
+[ASCII art UML showing the pattern structure]
+
+---
+
+## Participants
+[Table with Participant | Role columns]
+
+---
+
+## Pseudocode (OOP Style)
+[Language-agnostic pseudocode showing the pattern implementation]
+
+---
+
+## Key OOP Concepts Used
+[Table showing Concept | How It's Used]
+
+---
+
+## Comparison: OOP vs Elixir
+[Table comparing Aspect | OOP | Elixir approaches]
+
+---
+
+## When to Apply (Gang of Four)
+[Bullet list of when to use this pattern]
+
+---
+
+## Related Patterns
+[List of related patterns with brief explanation]
+```
+
+---
+
 ## Notes
 
 - Elixir is a functional language, so some traditional OOP design patterns may need adaptation
 - Focus on understanding the *intent* of patterns, not just the implementation
-- Patterns covered: Strategy
+- Patterns covered: Strategy, Observer
 
 ---
 
