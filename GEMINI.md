@@ -34,7 +34,8 @@ When I specify a design pattern, follow this structured approach:
 
 ### 4. **Generalized Example**
 - A more abstract/reusable implementation
-- Shows how the pattern can be applied broadly
+- Shows how the pattern can be applied broadly, it should basically be a translation of the OOP reference to Elixir
+- Check existing generalized examples files.
 
 ### 5. **Real-World Example**
 - A practical, industry-relevant use case
